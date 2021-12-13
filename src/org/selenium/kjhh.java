@@ -26,7 +26,9 @@ System.out.println(li);
 Set s=new HashSet();
 s.addAll(li);
 System.out.println(s);
+System.out.println("neahs");
 }
+	
 	
 	
 
